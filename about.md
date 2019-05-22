@@ -17,7 +17,7 @@ Link to your social media connections, too. This theme is set up to use <a href=
 <br/>
 <span class="contacticon center">
 	<a href="mailto:kevintang129@gmail.com"><i class="fa fa-envelope-square"></i></a>
-	<a href="https://github.com/kevintang129" target="_blank"><i class="fa fa-github-square"></i></a>
+	<a href="https://github.com/kevintang129" target="_blank"><i class="fa fa-github"></i></a>
 	<a href="https://www.linkedin.com/in/kevintang129/" target="_blank"><i class="fa fa-linkedin-square"></i></a>
 	<a href="https://open.spotify.com/user/1218201605?si=0d0Xw0wjSm2LaYJWbQ9xuQ" target="_blank"><i class="fa fa-spotify"></i></a>
 </span>
