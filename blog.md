@@ -3,9 +3,10 @@ layout: default
 title: blog
 permalink: /blog/
 ---
+
 <div class="header-bar">
-  <h1>*folio</h1>
-  <h2>simple whitespace theme</h2>
+  <h1>blog</h1>
+  <h2>awful writing, you should probably leave</h2>
   <br/>
   <hr>
   <br/>
@@ -13,7 +14,7 @@ permalink: /blog/
 
 
 <ul class="post-list">
-    {% for post in paginator.posts %}
+    {% for post in site.posts %}
       <li>
         <h2><a class="post-title" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
         <p class="post-meta">{{ post.date | date: '%B %-d, %Y — %H:%M' }}</p>
