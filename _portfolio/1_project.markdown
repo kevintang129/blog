@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Project
-description: a project with a background image
+title: My old website
+description: made from scratch to learn html, css, js
+redirect: https://kevintang129.github.io/
 img: /img/12.jpg
 ---
 
