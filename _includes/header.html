@@ -9,7 +9,7 @@
         <a class="page-link" href="{{ site.baseurl }}/">about</a>
 
         {% for page in site.pages %}
-          {% if page.title and page.title != "hello"%}
+          {% if page.title and page.title != "Hello, I'm Kevin."%}
           <a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title 1}}</a>
           {% endif %}
         {% endfor %}
