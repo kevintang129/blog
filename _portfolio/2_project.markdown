@@ -14,7 +14,8 @@ img: /img/2.jpg
 * Physics 89 - Introduction to Mathematical Physics (Linear algebra)
 
 ### Fall 2017
-* [CS61A - Structure and Interpretation of Computer Programs](http://inst.eecs.berkeley.edu/~cs61a/fa17/v)
+* <a href="http://inst.eecs.berkeley.edu/~cs61a/fa17/" target="_blank">CS61A - Structure and Interpretation of Computer Programs</a>
+
 * Astro 7A - Introduction to Astrophysics (Measurement, stellar evolution)
 * Physics 7C - Waves, Special Relativity, Quantum Mechanics
 * Physics 49 - Half semester of Thermodynamics
