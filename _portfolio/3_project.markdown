@@ -2,7 +2,7 @@
 layout: post
 title: WFIRST
 description: WFIRST observation schedule optimizer
-img: /img/2.jpg
+img: /img/5.jpg
 ---
 <!-- <div class="img_row">
 	<img class="col three" src="{{ site.baseurl }}/img/5.jpg" alt="" title="example image"/>
@@ -10,7 +10,8 @@ img: /img/2.jpg
 
 <a href="{{ site.baseurl }}/docs/JPL_Final_Report.pdf" target="_blank">My report</a>
 
-[More about WFIRST](https://wfirst.gsfc.nasa.gov/) 
+<a href="{https://wfirst.gsfc.nasa.gov/" target="_blank">More about WFIRST</a>
 
-[Code](https://github.com/hsergi/WFIRST-S-Observations)
+<a href="{https://github.com/hsergi/WFIRST-S-Observations" target="_blank">Code</a>
+
 

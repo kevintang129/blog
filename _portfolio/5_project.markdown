@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Galaxy Morphological Feature Predictor
+title: Galaxy Feature Predictor
 description: identifies galaxy features in images
 img: /img/1.jpg
 redirect: https://github.com/kevintang129/galaxy_classifier
