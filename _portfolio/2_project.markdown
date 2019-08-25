@@ -2,7 +2,7 @@
 layout: post
 title: Classes
 description: relevant classes I've taken at Berkeley
-img: /img/2.jpg
+img: /img/classes.jpg
 ---
 
 ### Fall 2016

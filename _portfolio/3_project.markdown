@@ -1,8 +1,8 @@
 ---
 layout: post
 title: WFIRST
-description: WFIRST observation schedule optimizer
-img: /img/5.jpg
+description: observation schedule optimizer
+img: /img/wfirst.jpg
 ---
 <!-- <div class="img_row">
 	<img class="col three" src="{{ site.baseurl }}/img/5.jpg" alt="" title="example image"/>

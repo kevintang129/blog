@@ -141,7 +141,7 @@ pre > code { border: 0; padding-right: 0; padding-left: 0; }
 
 /**  Portfolio pages **********************************************************
 */
-.blankbox { background: #FF3636; }
+.blankbox { background: #333; }
 
 .img_row { height: 275px; width: 100%; overflow: hidden; box-sizing: border-box; padding: 5px; }
 

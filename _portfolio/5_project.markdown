@@ -2,7 +2,7 @@
 layout: post
 title: Galaxy Feature Predictor
 description: identifies galaxy features in images
-img: /img/1.jpg
+img: /img/a1.jpg
 redirect: https://github.com/kevintang129/galaxy_classifier
 ---
 <!-- 
