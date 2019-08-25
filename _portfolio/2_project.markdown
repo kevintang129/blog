@@ -1,55 +1,44 @@
 ---
 layout: post
-title: Project
-description: a project with a background image
+title: Classes
+description: Relevant classes I've taken at Berkeley
 img: /img/2.jpg
 ---
 
-Every project has a beautiful feature shocase page. It's easy to include images, in a flexible 3-column grid format. Make your photos 1/3, 2/3, or full width.
+### Fall 2016
+* Physics 5A - Introductory Mechanics and Relativity
+* Math 53 - Multivariable Calculus
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so: 
+### Spring 2017
+* Physics 5B - E&M, Waves, and Optics
+* Physics 89 - Introduction to Mathematical Physics (Linear algebra)
 
-	---
-	layout: post
-	title: Project
-	description: a project with a background image
-	img: /img/12.jpg
-	---
+### Fall 2017
+* [CS61A - Structure and Interpretation of Computer Programs](http://inst.eecs.berkeley.edu/~cs61a/fa17/v)
+* Astro 7A - Introduction to Astrophysics (Measurement, stellar evolution)
+* Physics 7C - Waves, Special Relativity, Quantum Mechanics
+* Physics 49 - Half semester of Thermodynamics
 
+### Spring 2018
+* [CS61B - Data Structures](https://sp18.datastructur.es/)
+* Astro 7B - Introduction to Astrophysics II (Cosmology, galaxies, black holes)
+* Physics 137A - Quantum Mechanics (Formalism, particle in a box, hydrogen)
 
-<div class="img_row">
-	<img class="col one" src="{{ site.baseurl }}/img/1.jpg" alt="" title="example image"/>
-	<img class="col one" src="{{ site.baseurl }}/img/2.jpg" alt="" title="example image"/>
-	<img class="col one" src="{{ site.baseurl }}/img/3.jpg" alt="" title="example image"/>
-</div>
-<div class="col three caption">
-	Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="img_row">
-	<img class="col three" src="{{ site.baseurl }}/img/5.jpg" alt="" title="example image"/>
-</div>
-<div class="col three caption">
-	This image can also have a caption. It's like magic. 
-</div>
+### Summer 2018
+* [CS70 - Discrete Math and Probability Theory](http://www.eecs70.org/)
 
-You can also put regular text between your rows of images. Say you wanted to write a little bit about your project before you posted the rest of the images. You describe how you toiled, sweated, *bled* for your project, and then.... you reveal it's glory in the next row of images.
+### Fall 2018
+* Physics 137B - Quantum Mechanics II (Perturbation theory, WKB, scattering, quantum info)
+* [CS170 - Efficient Algorithms and Intractable Problems](https://inst.eecs.berkeley.edu/~cs170/fa18/)
+* [EE16A - Designing Information Devices and Systems I](https://inst.eecs.berkeley.edu/~ee16a/fa18/)
+* [Machine Learning Decal](https://github.com/mlberkeley/Machine-Learning-Decal-Fall-2018)
 
+### Spring 2019
+* [Astro 128 - Data Science Lab](https://github.com/ucb-datalab/course-materials)
+* [CS61C - Great Ideas of Computer Architecture (Machine Structures)](https://inst.eecs.berkeley.edu/~cs61c/sp19/)
+* [CS189 - Introduction to Machine Learning](https://people.eecs.berkeley.edu/~jrs/189/)
 
-<div class="img_row">
-	<img class="col two" src="{{ site.baseurl }}/img/6.jpg" alt="" title="example image"/>
-	<img class="col one" src="{{ site.baseurl }}/img/11.jpg" alt="" title="example image"/>
-</div>
-<div class="col three caption">
-	You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
+### Fall 2019
+* Astro 162 - Planetary Astrophysics
+* [CS162 - Operating Systems](https://cs162.eecs.berkeley.edu/)
 
-
-<br/><br/><br/>
-
-
-The code is simple. Just add a col class to your image, and another class specifying the width: one, two, or three columns wide. Here's the code for the last row of images above: 
-
-	<div class="img_row">
-	  <img class="col two" src="/img/6.jpg"/>
-	  <img class="col one" src="/img/11.jpg"/>
-	</div>

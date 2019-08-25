@@ -1,14 +1,15 @@
 ---
 layout: post
-title: Project
-description: a project that redirects to another website
-img:
-redirect: https://unsplash.com
+title: WFIRST
+description: WFIRST Observation Schedule Optimizer
+img: /img/2.jpg
 ---
+<div class="img_row">
+	<img class="col three" src="{{ site.baseurl }}/img/5.jpg" alt="" title="example image"/>
+</div>
 
-Every project has a beautiful feature shocase page. It's easy to include images, in a flexible 3-column grid format. Make your photos 1/3, 2/3, or full width.
-
-To give your project a background in the portfolio page, just add the img tag to the front matter like so: 
+WFIRST is a space telescope set to launch in the mid 2020s to Read more [here:](https://wfirst.gsfc.nasa.gov/) 
+Code [here:](https://github.com/hsergi/WFIRST-S-Observations)
 
 	---
 	layout: post
