@@ -29,15 +29,15 @@ img: /img/classes.jpg
 
 ### Fall 2018
 * <a href="https://inst.eecs.berkeley.edu/~cs170/fa18/" target="_blank">CCS170 - Efficient Algorithms and Intractable Problems</a>
-* <a href= https://inst.eecs.berkeley.edu/~ee16a/fa18/ target="_blank">EE16A - Designing Information Devices and Systems I</a>
+* <a href= "https://inst.eecs.berkeley.edu/~ee16a/fa18/" target="_blank">EE16A - Designing Information Devices and Systems I</a>
 * Physics 137B - Quantum Mechanics II (Perturbation theory, WKB, scattering, quantum info)
-* <a href= https://github.com/mlberkeley/Machine-Learning-Decal-Fall-2018 target="_blank">Machine Learning Decal</a>
+* <a href= "https://github.com/mlberkeley/Machine-Learning-Decal-Fall-2018" target="_blank">Machine Learning Decal</a>
 
 ### Spring 2019
-* <a href= https://github.com/ucb-datalab/course-materials target="_blank">Astro 128 - Data Science Lab</a>
-* <a href= https://inst.eecs.berkeley.edu/~cs61c/sp19/ target="_blank">CS61C - Great Ideas of Computer Architecture (Machine Structures)</a>
-* <a href= https://people.eecs.berkeley.edu/~jrs/189/ target="_blank">CS189 - Introduction to Machine Learning</a>
+* <a href= "https://github.com/ucb-datalab/course-materials" target="_blank">Astro 128 - Data Science Lab</a>
+* <a href= "https://inst.eecs.berkeley.edu/~cs61c/sp19/" target="_blank">CS61C - Great Ideas of Computer Architecture (Machine Structures)</a>
+* <a href= "https://people.eecs.berkeley.edu/~jrs/189/" target="_blank">CS189 - Introduction to Machine Learning</a>
 
 ### Fall 2019
 * Astro 162 - Planetary Astrophysics
-* <a href= https://cs162.eecs.berkeley.edu/target="_blank">CS162 - Operating Systems and System Programming</a>
+* <a href= "https://cs162.eecs.berkeley.edu/" target="_blank">CS162 - Operating Systems and System Programming</a>
