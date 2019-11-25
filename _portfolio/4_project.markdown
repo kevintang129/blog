@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Iridium Satellite Receiver
-description: gets post requests from satellite network 
+title: Choco
+description: A social media mobile application
 img: /img/sat.jpeg
-redirect: https://github.com/kevintang129/Iridium_web_app
+redirect: https://devpost.com/software/choco-n085oh
 
 ---
