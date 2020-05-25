@@ -6,7 +6,7 @@ permalink: /blog/
 
 <div class="header-bar">
   <h1>blog</h1>
-  <h2>awful writing, you should probably leave</h2>
+  <h2>Just some thoughts and stuff I wanna write about</h2>
   <br/>
   <hr>
   <br/>
